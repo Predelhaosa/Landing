@@ -107,10 +107,14 @@ body {
 }
 
 .skill-html {
+  padding-left: 30px; 
+  background-repeat: no-repeat;
   background-image: url("img-black/icon-html.svg");
 }
 
 .skill-css {
+  padding-left: 30px; 
+  background-repeat: no-repeat;
   background-image: url("img-black/icon-css.svg");
 }
 
